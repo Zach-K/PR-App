@@ -12,13 +12,38 @@
 
 <body>
 <div class="container">
-  <div class="border"></div>
-  <div class="thirdPage">"fffff"</div>
-  <div class="thirdPage" style="background-color:#999999">
-    <p>FIUI</p>
+  <div class="border">
+  	<a href="../index.html">
+   	<img src="../Images/tiny robot panda.png" alt="panda logo" width="83" height="61" align="left" />
+    </a>
+    <strong>Home</strong>
   </div>
-  <div class="thirdPage">Content for  class "thirdPage" Goes H</div>
+  	<div class="thirdOfPageHoriz"><!-- TemplateBeginEditable name="EditRegion3" -->
+  	  <div class="imageBox"></div>
+  	<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion4" -->
+  	<div class="textBox">
+  	  <h1 style="text-align:center">Title Here</h1>
+  	  <p>Insert text here.</p>
+	  </div>
+  	<!-- TemplateEndEditable --></div>
+  <div class="thirdOfPageHoriz"><!-- TemplateBeginEditable name="EditRegion6" -->
+    <div class="imageBox" style="float: right"></div>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion5" -->
+    	<div class="textBox" style="float: left">
+    	  <h1 style="text-align:center">Title Here</h1>
+    	  <p>Insert text here.</p>
+  	  </div>
+    	<!-- TemplateEndEditable --></div>
+  <div class="thirdOfPageHoriz"><!-- TemplateBeginEditable name="EditRegion7" -->
+    <div class="imageBox"></div>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion8" -->
+  <div class="textBox">
+    <h1 style="text-align:center">Title Here</h1>
+    <p>Insert text here.</p>
+  </div>
+  <!-- TemplateEndEditable --></div>
   <div class="border"></div>
+</div>
 </div>
 </body>
 </html>
