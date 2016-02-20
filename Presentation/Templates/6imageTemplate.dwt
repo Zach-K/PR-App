@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/layout.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="container">
+  <div class="border">
+  	<a href="index.html">
+   	<img src="../Images/tiny robot panda.png" alt="panda logo" width="83" height="61" align="left" />
+    </a>
+    <strong>Home</strong>
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion4" -->
+  <div class="bigImageBox">
+  	<div class="smallImageBox" style="float:right">
+    <a href=""></a>
+    </div>
+    <div class="smallImageBox" style="float:left">
+    <a href=""></a>
+    </div>
+    <div class="smallImageBox" style="float:right">
+    <a href=""></a>
+    </div>
+    <div class="smallImageBox" style="float:left">
+    <a href=""></a>
+    </div>
+    <div class="smallImageBox" style="float:right">
+    <a href=""></a>
+    </div>
+    <div class="smallImageBox" style="float:left">
+    <a href=""></a>
+    </div>
+  </div>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="EditRegion3" -->
+  <div class="bigTextBox">
+    <h1>Title</h1>
+    <p>insert text here.</p>
+  </div>
+  <!-- TemplateEndEditable --><!-- TemplateEndEditable --></div>
+  <div class="border"></div>
+</div>
+</div>
+</body>
+</html>

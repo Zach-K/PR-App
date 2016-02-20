@@ -89,3 +89,41 @@
 	text-align: center;
 	height: 80px;
 }
+
+.thirdOfPageHoriz{
+	height: 314px;
+	width: 1920px;
+	float:left;
+}
+
+.imageBox{
+	height: 244px;
+	width: 570px;
+	float: left;
+	margin: 25px;
+	border: 10px solid #1b1b1b;
+	background-color: #b9d143;
+}
+
+.textBox{
+	height: 244px;
+	width: 1210px;
+	float: right;
+	margin: 25px;
+	border: 10px solid #1b1b1b;
+	background-color: #b9d143;
+	font-family: "Century Gothic";
+	font-size: 24px;
+	
+}
+
+.bigTextBox{
+	border: 10px solid #b9d143;
+	margin: 25px;
+	float: right;
+	
+}
+
+.bigImageBox{
+	
+}
