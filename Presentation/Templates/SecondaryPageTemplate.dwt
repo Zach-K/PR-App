@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../CSS/layout.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="container">
+  <div class="border"></div>
+  <div class="thirdPage">"fffff"</div>
+  <div class="thirdPage" style="background-color:#999999">
+    <p>FIUI</p>
+  </div>
+  <div class="thirdPage">Content for  class "thirdPage" Goes H</div>
+  <div class="border"></div>
+</div>
+</body>
+</html>
